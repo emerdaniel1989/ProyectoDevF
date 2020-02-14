@@ -1,0 +1,193 @@
+ <div>
+  <main class="main">
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img class="d-block w-100"
+                    src="https://veterinariasanpedro.gt/inicio/wp-content/themes/VSP/images/0783098ec09ce25aa0a6af89e0d6f871_05.png"
+                    alt="First slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100"
+                    src="https://veterinariasanpedro.gt/inicio/wp-content/themes/VSP/images/1ea982fe17fe17d37c8c83e97dda3069_02.png"
+                    alt="Second slide">
+            </div>
+            <div class="carousel-item">
+                <img class="d-block w-100"
+                    src="https://veterinariasanpedro.gt/inicio/wp-content/themes/VSP/images/2bfa6ae5ec6554e95a834911fb91876a_01.png"
+                    alt="Third slide">
+            </div>
+        </div>
+    </div>
+ <!--Inicio del Card-->
+    <div class="promociones justify-content-center align-items-center"> 
+        <div class="card" style="width: 18rem; height: 18erm;">
+            <img src="cementerio.png" class="card-img-top" alt="...">
+            <div class="card-body">
+                <p class="card-text">Dale el ultimo adios a tu amigo</p>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;height: 18erm">
+            <img src="grooming-02_4.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <p class="card-text">El mes de Febrero aprovecha el Grooming</p>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;height: 18erm">
+            <img src="ultrasonido.jpg" height="" class="card-img-top" alt="...">
+            <div class="card-body">
+                <p class="card-text">Ultrasonido a 50% en Febrero</p>
+            </div>
+        </div>
+    </div>
+</main>
+</div>
+    <div class="paginafooter">
+
+  <!-- Footer -->
+  <footer class="page-footer font-small unique-color-dark mt-3">
+
+    <div style="background-color: #066fa0;">
+      <div class="container">
+
+        <!-- Grid row-->
+        <div class="row py-4 d-flex align-items-center">
+
+          <!-- Grid column -->
+          <div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
+            <h5 class="mb-0">SIGUENOS EN NUESTRAS REDES SOCIALES</h5>
+          </div>
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+          <div class="col-md-6 col-lg-7 text-center text-md-right">
+
+            <!-- Facebook -->
+            <a class="fb-ic">
+              <i class="fa fa-facebook fa-1x ml-2" aria-hidden="true"> </i>
+            </a>
+            <!-- Twitter -->
+            <a class="tw-ic">
+              <i class="fa fa-twitter fa-1x ml-2" aria-hidden="true"></i>
+            </a>
+            <!--Linkedin -->
+            <a class="li-ic">
+              <i class="fa fa-linkedin fa-1x ml-2" aria-hidden="true"></i>
+            </a>
+            <!--Instagram-->
+            <a class="ins-ic">
+              <i class="fa fa-instagram fa-1x ml-2" aria-hidden="true"></i>
+            </a>
+
+          </div>
+          <!-- Grid column -->
+
+        </div>
+        <!-- Grid row-->
+
+      </div>
+    </div>
+
+    <!-- Footer Links -->
+    <div class="container text-center text-md-left mt-5">
+
+      <!-- Grid row -->
+      <div class="row mt-3">
+
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+
+          <!-- Content -->
+          <h6 class="text-uppercase font-weight-bold">Veterinario San Pedro</h6>
+          <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <img
+            src="https://veterinariasanpedro.gt/inicio/wp-content/themes/VSP/images/144d63d01d1d7ae3c83d5c95377407f9_spv.png"
+            alt="">
+          <p>
+          </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Servicios</h6>
+          <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <a href="#!">Hospedaje</a>
+          </p>
+          <p>
+            <a href="#!">Estetica Canina</a>
+          </p>
+          <p>
+            <a href="#!">Castracion</a>
+          </p>
+          <p>
+            <a href="#!"></a>
+          </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Quienes somos</h6>
+          <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <a href="#!">Sobre nosstros</a>
+          </p>
+          <p>
+            <a href="#!">Nuestra Historia</a>
+          </p>
+          <p>
+            <a href="#!">Nuestra Cultura</a>
+          </p>
+          <p>
+            <a href="#!">Impacto social</a>
+          </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Contactanos</h6>
+          <hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <a class="icons">
+            <p>
+              <i class="fa fa-home fa-1x" aria-hidden="true"></i> Comercial Paseo de Villa Hermosa, local 11</p>
+            <p>
+              <i class="fa fa-envelope fa-1x" aria-hidden="true"></i> info@veterinariassanpedro.com</p>
+            <p>
+              <i class="fa fa-phone-square fa-1x" aria-hidden="true"></i> + 502 2480-6050</p>
+            <p>
+              <i class="fa fa-phone-square fa-1x" aria-hidden="true"></i> + 502 2507-9494</p>
+          </a>
+
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!-- Grid row -->
+
+    </div>
+    <!-- Footer Links -->
+
+    <!-- Copyright -->
+    <div class="copy">
+      <div class="footer-copyright text-center py-3">© 2020 Copyright:
+        <a href="https://mdbootstrap.com/education/bootstrap/"> Veterinariasanpedro.com</a>
+      </div>
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+  <!-- Footer -->
+
+</div>
