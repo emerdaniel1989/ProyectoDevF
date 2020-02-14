@@ -80,3 +80,14 @@ h5{
     color: white;
 }
 /*fin Footer*/
+p{
+    color: black;
+}
+.img1{
+    border: none;
+}
+.card-deck{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #F2F5FE;
+}
