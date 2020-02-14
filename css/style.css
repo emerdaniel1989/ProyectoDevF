@@ -1,3 +1,50 @@
+
+.text-color
+{
+   
+  padding: 1rem;
+  margin-top: 0em;
+  color: #3e51c3;
+  padding-top: 40px;
+  padding-bottom: 30px;
+
+}
+
+a :hover{
+    color: black;  
+    text-decoration: none; 
+    
+}
+a :active{
+    color: black;
+}
+.dog
+{
+   background-color: #f5f5f5;
+   position: relative;
+   border-bottom: 1px solid;
+   border-bottom-width: 1px ;
+   border-bottom-style: solid;
+   border-bottom-color: rgb(198, 204, 237);
+}
+#logo
+{
+    margin-left: 16pc;
+  margin-right: auto;
+   
+}
+.veterinaria{
+    justify-content: center;
+    margin-left: 45pc;
+  margin-right: auto;
+}
+
+
+
+
+
+
+
 .iconos{
     display: inline-block;
     width: 32.2%;
@@ -80,3 +127,14 @@ h5{
     color: white;
 }
 /*fin Footer*/
+p{
+    color: black;
+}
+.img1{
+    border: none;
+}
+.card-deck{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #F2F5FE;
+}
