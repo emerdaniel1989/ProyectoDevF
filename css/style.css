@@ -46,3 +46,37 @@
 }
 
 
+/*footer*/
+
+.paginafooter{
+    background-color: #0585c0;
+}
+
+.container{
+    color: white;
+}
+
+h6{
+    color: white;
+}
+
+p{
+    color: white;
+}
+a{
+    color: white;
+}
+
+h5{
+    color: white;
+}
+.fb-ic{
+    color:white;
+}
+.ins-ic{
+    color: white;
+}
+.icons{
+    color: white;
+}
+/*fin Footer*/
